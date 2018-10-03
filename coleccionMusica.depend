@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1526044306 source:c:\users\aumaza_mecon\documents\test\coleccionmusica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1526044306 .h"
+
+1526053328 c:\users\aumaza_mecon\documents\test\coleccionmusica\funciones.h
+
+1529727288 source:/home/augusto/TEST/coleccionMusica/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529726966 /home/augusto/TEST/coleccionMusica/ArrayList.h
+
+1538254462 source:/home/augusto/TEST/coleccionMusica/main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+	"ArrayList.h"
+	"albums.h"
+
+1537721836 /home/augusto/TEST/coleccionMusica/misFunciones.h
+
+1538590118 /home/augusto/TEST/coleccionMusica/albums.h
+
+1537722394 source:/home/augusto/TEST/coleccionMusica/misFunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"misFunciones.h"
+
